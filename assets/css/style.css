@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+}
+
+/* Task-1 Rail Start */
+/* .container .row .button-style{
+    background-color: brown;
+    color: #fff;
+    border-radius: 20px;
+    padding: 10px 20px;
+    border: none;
+} */
+/* Task-1 Rail End */
+
+/* Task-2 Feqan Start */
+/* .card{
+    padding: 20px;
+}
+.card i{
+    font-size: 100px;
+}
+.card span{
+    position: relative;
+}
+.card span::after{
+    content: "";
+    position: absolute;
+    height: 2px;
+    width: 62px;
+    background-color: black;
+    top: 20px;
+    left: 0px;
+} */
+/* Task-2 Feqan End */
